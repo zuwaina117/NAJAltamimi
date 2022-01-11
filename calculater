@@ -1,4 +1,6 @@
-int a,n,j,y
+int a,n,j,y,z
 read a,n
 j=a+n;
+y=a*n;
+print z
 print j
