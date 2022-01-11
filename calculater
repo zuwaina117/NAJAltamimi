@@ -2,3 +2,5 @@ int a,n,j,y
 read a,n
 j=a+n;
 print j
+c=x*z;
+print c
