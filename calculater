@@ -1,6 +1,6 @@
 int a,n,j,y
 read a,n
-j=a+n;
+j=a-n;
 print j
 a= j-y
 print a
