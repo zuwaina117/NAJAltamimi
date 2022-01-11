@@ -2,3 +2,4 @@ int a,n,j,y
 read a,n
 j=a+n;
 print j
+y=a*n;
